@@ -16,8 +16,6 @@ Binary classification with Feed Forward Neural Networks for predicting chances o
   6. Conclusion and Results
 ---
 #
-
----
 # Dataset:
 ![image](https://github.com/VesnaPop-Dimitrijoska/FFNN_Clasiffication_Model_HeartData/assets/144008804/2232c394-ef02-4753-a194-54e7a19a28b4)
 ---
